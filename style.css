@@ -1,0 +1,121 @@
+* {
+  padding: 0;
+  margin: 0;
+  vertical-align: baseline;
+  list-style: none;
+  border: 0;
+}
+
+:root {
+  --body-bg-color: #121214;
+  --text-color: #e1e1e6;
+  --title-color: #04d361;
+  --form-color: #a8a8a8;
+  --bg-button-color: #8257e5;
+}
+
+.container {
+  display: inline;
+  height: 100%;
+  width: auto;
+  position: absolute;
+}
+.newsletter {
+  background-color: #121214;
+  position: absolute;
+  position: relative;
+  width: 1014px;
+  height: 929px;
+}
+
+#logo {
+  width: 389px;
+  height: 94px;
+  margin: 50px 301px 94px 30px;
+}
+
+#leitor {
+  position: absolute;
+  width: 1438px;
+  height: 929px;
+  left: 600px;
+  top: 0px;
+}
+
+h2 {
+  color: #04d361;
+  font-family: Work Sans;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 24px;
+  margin-left: 36px;
+}
+
+h3 {
+  color: #e1e1e6;
+  font-family: Spartan;
+  font-weight: 700;
+  font-size: 14px;
+  margin-left: 36px;
+}
+p {
+  font-family: Spartan;
+  color: #e1e1e6;
+  font-size: 14px;
+  font-weight: 400;
+  margin-left: 36px;
+}
+
+form {
+  color: #a8a8a8;
+  font-family: Spartan;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 14px;
+  margin-left: 36px;
+}
+
+span {
+  font-family: Spartan;
+  color: #8257e5;
+  font-size: 14px;
+  font-weight: 700;
+  margin-left: 36px;
+}
+
+label::before {
+  content: "";
+  width: 5px;
+  height: 40px;
+  left: 36px;
+  top: 448px;
+  background: #04d361;
+  position: absolute;
+}
+
+input {
+  margin-top: 17px;
+}
+
+input::-webkit-input-placeholder {
+  font-size: 14px;
+}
+
+#seta {
+  position: absolute;
+  align-content: space-around;
+  width: 24px;
+  height: 24px;
+  left: 200px;
+  top: 537px;
+}
+
+#botao {
+  position: absolute;
+  width: 39px;
+  height: 40px;
+  left: 1055px;
+  top: 448px;
+  background-color: #8257e5;
+  color: #04d361;
+}
