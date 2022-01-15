@@ -8,8 +8,11 @@
 - Seguir o modelo apresentado no figma. (https://www.figma.com/file/oxHBqZkps0KGjXBPuJ5jOe/DD-RocketNews-Copy?fuid=1009487907225142948)
 - Discutir as tarefas do projeto e sua execução com a comunidade do evento no Discord.
 
+Deploy link: https://allanfsgarcia.github.io/dasafiorocketseat-rocketnews/
 
 ![image](https://user-images.githubusercontent.com/91488719/149636426-597d6dcb-9be5-462f-a908-0908664383f8.png)
+
+Praticando: TAGS HTML, Seletores CSS e boas práticas de programação.
 
 
 
